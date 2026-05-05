@@ -9,3 +9,20 @@
 .heading{
     font: size 300px;
 }
+li{
+    list-style-type: none;
+    float: center;
+    border-color:black;
+    border-width: 1px;
+    border-style: solid;
+}
+li a {
+    display: block;
+    color: black;
+    padding: 25px;
+    text-align: center;
+    background-color: plum;
+}
+li a:hover {
+background-color: white;
+}
