@@ -1,3 +1,11 @@
 .h1_team {
   text-align: center;
 }
+
+.process_text_alignment{
+    font-size: large;
+    text-align: center;
+}
+.heading{
+    font: size 300px;
+}
