@@ -1,28 +1,50 @@
-.h1_team {
-  text-align: center;
+html {
+scrollbar-gutter: stable;
+}
+
+h1{
+text-align: center;
+}
+.center{
+text-align:center
 }
 
 .process_text_alignment{
-    font-size: large;
-    text-align: center;
+font-size: 30px;
+text-align: center;
 }
 .heading{
-    font: size 300px;
+font: size 300px;
 }
 li{
-    list-style-type: none;
-    float: center;
-    border-color:black;
-    border-width: 1px;
-    border-style: solid;
+list-style-type: none;
+float: center;
+border-color:black;
+border-width: 1px;
+border-style: solid;
 }
 li a {
-    display: block;
-    color: black;
-    padding: 25px;
-    text-align: center;
-    background-color: plum;
+display: block;
+color: black;
+padding: 25px;
+text-align: center;
+background-color: plum;
 }
 li a:hover {
 background-color: white;
+}
+.page_link a {
+display: block;
+color: black;
+padding: 25px;
+text-align: center;
+background-color: plum;
+list-style-type: none;
+float: center;
+border-color:black;
+border-width: 1px;
+border-style: solid;
+}
+a:hover{
+    color:purple
 }
