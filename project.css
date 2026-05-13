@@ -48,3 +48,7 @@ border-style: solid;
 a:hover{
     color:purple
 }
+a:active{
+    color:red
+}
+
